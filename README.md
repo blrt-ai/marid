@@ -1,6 +1,6 @@
 # Marid · مارد
 
-**Marid** is an AI assistant for Android by [BLRT.ai](https://blrt.ai): genies that chat, use your phone, code, design and make pictures, video and audio, with your own AI keys or models that run on the phone.
+**Marid** is an AI assistant for Android by BLRT.ai: genies that chat, use your phone, code, design and make pictures, video and audio, with your own AI keys or models that run on the phone.
 
 This repository is where Marid is published:
 
